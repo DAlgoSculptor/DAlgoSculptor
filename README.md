@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Danish Nawaz</h1>
 <h3 align="center">Front-End developer , Data Analyst </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muslim-Danish&label=Profile%20views&color=0e75b6&style=flat" alt="Muslim-Danish" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Muslim-Danish&label=Profile%20views&color=0e75b6&style=flat" alt="DAlgoSculptor" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Muslim-Danish&theme=matrix" alt="Muslim-Danish" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DAlgoSculptor&theme=matrix" alt="DAlgoSculptor" /></a> </p>
 
 - 🔭 I’m currently working on **NutriScan**
 - 👯 I’m looking to collaborate on **SIH**
@@ -65,21 +65,21 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muslim-Danish&langs_count=8&theme=highcontrast" alt=Muslim-Danish />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlgoSculptor&langs_count=8&theme=highcontrast" alt=DAlgoSculptor />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Muslim-Danish&show_icons=true&locale=en&theme=highcontrast" alt="Muslim-Danish" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=DAlgoSculptor&show_icons=true&locale=en&theme=highcontrast" alt="DAlgoSculptor" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Muslim-Danish&theme=highcontrast" alt="Muslim-Danish" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DAlgoSculptor&theme=highcontrast" alt="DAlgoSculptor" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/Muslim-Danish">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muslim-Danish&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muslim-Danish&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muslim-Danish&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muslim-Danish&theme=highcontrast" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muslim-Danish&theme=highcontrast" height="180em" />
+<a href="https://github.com/DAlgoSculptor">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DAlgoSculptor&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DAlgoSculptor&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DAlgoSculptor&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DAlgoSculptor&theme=highcontrast" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DAlgoSculptor&theme=highcontrast" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Muslim-Danish&theme=react-dark"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DAlgoSculptor&theme=react-dark"/>
 
