@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Danish Nawaz</h1>
-<h3 align="center">Pern Stack developer, Data Analyst </h3>
+<h3 align="center">Cross Platform App Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Muslim-Danish&label=Profile%20views&color=0e75b6&style=flat" alt="DAlgoSculptor" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DAlgoSculptor&theme=matrix" alt="DAlgoSculptor" /></a> </p>
