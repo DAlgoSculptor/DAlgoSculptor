@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **NutriScan**
 - 👯 I’m looking to collaborate on **SIH**
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **danishnawaz345678@gamil.com**
 
