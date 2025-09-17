@@ -1,8 +1,14 @@
-# 🚀 Danish Nawaz | Cross-Platform App Developer
+<h1 align="center" style="font-family: 'Segoe UI', sans-serif; font-weight: bold;">
+  Danish Nawaz
+</h1>
+
+
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Danish+Nawaz;Cross+Platform+App+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=750&height=130&lines=Hi+👋,+I'm+Danish+Nawaz;Cross+Platform+App+Developer;Always+Learning+%26+Building" alt="Typing SVG" />
 </div>
+
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DAlgoSculptor&label=Profile%20Views&color=00d9ff&style=for-the-badge&logo=eye" alt="Profile Views" />
