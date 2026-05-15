@@ -1,18 +1,18 @@
 <div align="center">
 
 <!-- Animated Header with Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Danish%20Nawaz&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cross%20Platform%20App%20Developer%20%7C%20Always%20Learning&descAlignY=55&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Danish%20Nawaz&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Always%20Learning&descAlignY=55&descSize=20" width="100%" />
 
 </div>
 
 <div align="center">
-  
-<!-- Typing Animation with Multiple Lines -->
+
+<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=Hi+%F0%9F%91%8B%2C+I'm+Danish+Nawaz;Cross+Platform+App+Developer+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%92%A1;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=180&lines=Hi+%F0%9F%91%8B%2C+I'm+Danish+Nawaz;Full+Stack+Developer+%F0%9F%9A%80;Building+Innovative+Solutions+%F0%9F%92%A1;AI%2FML+Enthusiast+%F0%9F%A4%96;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" />
 </a>
 
-<!-- Animated Badges with Pulse Effect -->
+<!-- Badges -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=DAlgoSculptor&label=Profile%20Views&color=00d9ff&style=for-the-badge&logo=eye" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/DAlgoSculptor?label=Followers&style=for-the-badge&color=00d9ff&logo=github" alt="Followers" />
@@ -31,26 +31,28 @@
 ```javascript
 const danish = {
   name: "Danish Nawaz",
-  role: "Cross Platform App Developer",
+  role: "Full Stack Developer",
   location: "India 🇮🇳",
-  
+
   currentFocus: {
     project: "NutriScan App",
     tech: ["Kotlin", "ML Kit", "Firebase"]
   },
-  
-  learning: ["Kotlin", "Advanced Mobile Architecture", "AI/ML"],
-  
+
+  learning: ["Advanced Architecture", "AI/ML", "Cloud Systems"],
+
   openTo: ["SIH Projects", "Collaborations", "Freelance Work"],
-  
+
   skills: {
     languages: ["Java", "Python", "Kotlin", "JavaScript", "Go"],
     mobile: ["Android", "React Native", "Flutter"],
+    frontend: ["React", "Angular", "Vue", "Tailwind"],
+    backend: ["Node.js", "Django", "FastAPI", "Spring"],
     databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
     cloud: ["Google Cloud", "AWS", "Heroku"],
     aiml: ["TensorFlow", "PyTorch", "OpenCV", "Scikit-Learn"]
   },
-  
+
   funFacts: {
     hobbies: ["Problem Solving", "Open Source", "Tech Blogging"],
     codingHours: "10+ hours/day",
@@ -126,7 +128,7 @@ const danish = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  
+
 <table>
   <tr>
     <td>
@@ -138,7 +140,6 @@ const danish = {
   </tr>
 </table>
 
-<!-- Streak Stats -->
 <img src="https://streak-stats.demolab.com/?user=DAlgoSculptor&theme=radical&hide_border=true&background=0D1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff" alt="GitHub Streak" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAlgoSculptor&theme=react-dark&hide_border=true&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff" alt="Activity Graph" width="49%" />
 
@@ -159,7 +160,7 @@ const danish = {
 ## 📈 Contribution Insights
 
 <div align="center">
-  
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DAlgoSculptor&theme=radical" alt="Profile Details" width="100%" />
 
 <table>
@@ -173,7 +174,6 @@ const danish = {
   </tr>
 </table>
 
-<!-- 3D Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DAlgoSculptor&custom_title=Danish's%20Contribution%20Graph&bg_color=0D1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
@@ -275,11 +275,12 @@ const danish = {
 
 <div align="center">
 
-
 **⭐️ From [Danish Nawaz](https://github.com/DAlgoSculptor) with ❤️**
 
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
- Code is like humor. When you have to explain it, it's bad!
+Code is like humor. When you have to explain it, it's bad!
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="30" />
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
