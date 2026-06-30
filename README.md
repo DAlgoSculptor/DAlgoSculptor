@@ -59,7 +59,7 @@ Open to SWE and AI/ML roles · India · UAE · Remote · Available mid-2026
 
 ---
 
-### [ANN Churn Prediction](https://github.com/DAlgoSculptor) — ML Pipeline
+### [ANN Churn Prediction](https://dalgosculptor-ann-case-study-on-churn-rate-streamlit-app-bss0ks.streamlit.app/) — ML Pipeline
 > End-to-end customer churn classifier with a live inference API.
 
 - Keras ANN with feature engineering and hyperparameter tuning
