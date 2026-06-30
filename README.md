@@ -35,7 +35,7 @@ Open to SWE and AI/ML roles · India · UAE · Remote · Available mid-2026
 
 ## 🚀 Projects
 
-### [NutriScan](https://github.com/DAlgoSculptor) — AI Food Safety Scanner
+### [NutriScan](https://nutri-scan-ai-phi.vercel.app/) — AI Food Safety Scanner
 > Scan any food label and get a four-tier ingredient risk breakdown via an LLM pipeline.
 
 - FastAPI backend with a custom ingredient classification model trained on food additive datasets
